@@ -24,8 +24,8 @@ c) Update this README.md file:
 
 👤 1. Student Information
 
-Name: *** Your full name *** 
-Email: *** Your email address *** 
+Name: Pavida Mayudee
+Email: 6730413321@student.chula.ac.th
 
 🖼️ 2. Picture
 
